@@ -1,2 +1,2 @@
-# pythonn-spider
+# python-spider
 practice about python spider
