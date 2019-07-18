@@ -6,10 +6,10 @@
   - `//a[text()='']` 选择文本为下一页三个字的a标签
   
  - `@符号`
-  - `a/@herf` 获取a下的属性
-  - `//ul[@id='detail-list']` 获取任意标签下，属性`id='detail-list'` 的ul标签
+   - `a/@herf` 获取a下的属性
+   - `//ul[@id='detail-list']` 获取任意标签下，属性`id='detail-list'` 的ul标签
   
  - `//`
-  - 在xpath最前面表示从当前html中任意一个位置开始选择
-  - `li//a` 表示的是li下任何一个标签
+   - 在xpath最前面表示从当前html中任意一个位置开始选择
+   - `li//a` 表示的是li下任何一个标签
   
